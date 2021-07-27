@@ -1,7 +1,7 @@
 
 public class FindMax {
 	/*
-	 * Ask User To Find Max Integer By Using Generics
+	 * Ask User To Find Maximum By Using Generic
 	 */
 
 // Determines The Largest Of Three Comparable Objects

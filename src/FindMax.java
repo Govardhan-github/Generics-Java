@@ -1,7 +1,7 @@
 
 public class FindMax {
 	/*
-	 * Ask User To Find Max  By Using Generics
+	 * Ask User To Find Max Integer By Using Generics
 	 */
 
 // Determines The Largest Of Three Comparable Objects
@@ -16,10 +16,10 @@ public class FindMax {
 	}
  /*
   * Declaring The Main Method 
-  * And Printing The Maximum String
+  * And Printing The Maximum Integer Number
   */
   public static void main(String args[]) {
-	       System.out.println("Maximum String Is : " + max("Govardhan", "Reddy" ,"Bajjuri"));
+      System.out.println("Maximum Integer Is : " + max(Integer.valueOf(32), Integer.valueOf(56), Integer.valueOf(89)));
 
   }
 }
